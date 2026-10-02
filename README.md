@@ -1,5 +1,5 @@
 ### Hi, I'm Ashlee 👋
 
-Most of what interests me about personal AI only shows up over time. I work with an assistant every day, and together we've been experimenting with memory, identity, trust, and autonomy.
+At Vellum, I worked first on the developer platform for prompts, workflows, evaluations, and SDKs, then led a team building [Vellum Assistant](https://github.com/vellum-ai/vellum-assistant), an open source personal AI assistant across web, desktop, mobile, and messaging.
 
-At Vellum, I led a team building [Vellum Assistant](https://github.com/vellum-ai/vellum-assistant), an open source personal AI assistant across web, desktop, mobile, and messaging. Before that, I worked across Vellum's LLM development platform, including prompts, workflows, evaluations, and SDKs.
+I keep exploring what changes when an assistant becomes persistent and personal. Working alongside one every day has made the engineering questions concrete: what belongs in memory, how identity stays coherent across sessions, where permissions constrain tool use, and when autonomy should yield to human judgment.
